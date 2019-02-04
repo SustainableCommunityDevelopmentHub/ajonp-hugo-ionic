@@ -1,13 +1,13 @@
-# AJonP - Hugo Ionic Theme
-[![AJonP Hugo Ionic Theme](https://res.cloudinary.com/ajonp/image/upload/f_auto,fl_lossy,q_auto/v1543792067/ajonp-ajonp-com/ajonp-hugo-theme/aj_on_hugo_ionic.png)](https://ajonp.com/lessons/4-hugo-ionic/)
+# ECOCITY REMAUFACTURING AND UPCYCLING SERVICE
 
-# Features
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf5f9a18-a481-4067-b53a-199b23c9045f/deploy-status)](https://app.netlify.com/sites/awesome-einstein-706925/deploys)
+
+
+##notes from theme author
+
 
 ## Lesson for use
 [AJonP Hugo Ionic Theme](https://ajonp.com/lessons/4-hugo-ionic/)
-
-### Add ajonp-hugo-ionic
-Go to your sites main directory
 
 Victor/Hugo style
 ```sh
