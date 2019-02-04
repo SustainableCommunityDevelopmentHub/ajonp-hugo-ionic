@@ -1,10 +1,10 @@
 languageCode = "en-us"
-title = "Example-AJonP-Template"
+title = "Ecocity Domestic ReManufacturing Upcycling Systems"
 theme = "ajonp-hugo-ionic"
-description = "Purr-fect Solutions"
+description = "Innovations in waste recovery by sustainable meeting the needs of everyday people with everyday products"
 metadataformat = "yaml"
 canonifyurls = true
-disqusShortname = "<your_name>"
+disqusShortname = "ecocity"
 # enableGitInfo = "true" # you can change this after git init
 pygmentsUseClasses = "true"
 pygmentsCodeFences = "true"
@@ -12,7 +12,7 @@ pygmentsCodeFences = "true"
 
 [author]
   name = "ajonp"
-  homepage = "https://ajonp.com"
+  homepage = "https://www.ecocity.com"
 
 
 [taxonomies]
@@ -24,23 +24,23 @@ pygmentsCodeFences = "true"
 [params]
   toc = "true"
   RSSLink = "/index.xml"
-  author = "ajonp" 
-  github = "ajonpllc" 
-  twitter = "ajonpcom" 
-  youtube = "<your_name>" #channelname
-  email = "developer@ajonp.com"
+  author = "geog" 
+  github = "biomassives" 
+  twitter = "ecocity" 
+  youtube = "UCGGCCeZqVXZv1CqO7AdOz2A" #channelname
+  email = "greg@ecocity.com"
   images = ["https://res.cloudinary.com/ajonp/image/upload/w_500/v1543267002/ajonp-ajonp-com/youtube_banner.png"]
-  fb_app_id = "<your_name>"
+  fb_app_id = "ecocity"
 
   # Search Only
   [params.algolia]
-    appId = "<your_name>"
+    appId = "ecocity"
     apiKey = "your_name"
     indexName = "your_name"
   [params.home]
     image = "https://res.cloudinary.com/ajonp/image/upload/v1544021089/ajonp-ajonp-com/Logos/ajonp/welcom_card.png"
-    title = "Welcome to AJonP"
-    subtitle = "Here you will find lessons and videos to coach you on your programming journey."
+    title = "Welcome to Ecocity Remanufacturing and Upcycling Services"
+    subtitle = "Journey with us to the other side of broken and antiquated systems."
     showGithub = true
     showTwitter = true
     showYoutube = true
