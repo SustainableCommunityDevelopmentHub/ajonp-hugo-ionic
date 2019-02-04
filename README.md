@@ -4,7 +4,7 @@
 
 
 ##notes from theme author
-
+test update
 
 ## Lesson for use
 [AJonP Hugo Ionic Theme](https://ajonp.com/lessons/4-hugo-ionic/)
