@@ -1,7 +1,7 @@
 +++
-title = "Home"
-description = ""
-date = 2018-11-26T14:45:13-05:00
+title = "Ecocity Regenerative Community Projects Portal"
+description = "We are a community that provides support to projects worldwide through research, peer mentoring, fundraising, and collaboration.  Join us we'd love to help plug you in."
+date = 2029-04-28T11:41:00-05:00
 weight = 20
 draft = false
 bref = ""
